@@ -1,0 +1,6 @@
+.fundo{
+	background: url("./assets/img/background_first.png") center center no-repeat;
+	background-size: cover;
+	min-height: 100vh;
+	
+}

@@ -1,0 +1,63 @@
+
+
+.bloco_linha {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.linha {
+    width: 70%;
+    border-top: 2px solid black;
+}
+
+.bloco_titulo_aprovados {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.titulo_aprovado {
+    font-family: 'Koulen', cursive;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 40pt;
+}
+
+.bloco_comentarios {
+    display: flex;
+    
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    min-height: 70vh;
+    margin: 20px;
+}
+
+.paragrafo_esquerda {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 700px;
+    width: 600px;
+}
+
+.paragrafo_direita {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 600px;
+    min-height: 700px;
+}
+
+.texto {
+    font-family: 'Lusitana', serif;
+    font-size: 20pt;
+    width: 80%;
+    margin: 20px;
+    margin-top: 50px;
+}

@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lusitana:wght@400;700&display=swap');
+
+.main{
+    font-family: 'Koulen', cursive;
+}
+
+.principal{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+
+.titulo_sobre{
+    text-align: center;
+    margin: 20px;
+}
+.img_sobre{
+    margin-top: 50px;
+    width: 100%;
+}
+
+.texto_sobre_bloco{
+    margin-left: 40px;
+    width: 100%;
+   
+}
+
+.titulo_sobre{
+    font-size: 70px;
+    margin: 20px;
+}
+
+.bloco_txt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.texto-pag{
+    font-size: 5em;
+    line-height: 55px;
+    font-family: 'Lusitana', serif;
+    font-size: 17pt;
+    margin-top: 50px;
+    width: 90%;
+    text-align: center;
+ 
+}
