@@ -62,6 +62,11 @@ desing figma
 
 ## Imagens do site
 
+0 - Projeto no FIGMA
+
+![Captura de tela de 2022-10-27 18-35-13](https://user-images.githubusercontent.com/97266637/198402951-9c9d48a3-993a-4868-b54b-ffe76e6f3aa6.png)
+
+
 1 - Home-page
 
 ![1](https://user-images.githubusercontent.com/97266637/198370440-bde04150-bb0d-4afb-8958-47a56d259f71.png)
