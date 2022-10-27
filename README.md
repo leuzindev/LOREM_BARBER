@@ -81,7 +81,12 @@ desing figma
 
 4 - FeedBack + Carrosel
 
+
+![2022-10-27_18-03-20_AdobeExpress (1)](https://user-images.githubusercontent.com/97266637/198398566-d3c29927-e05b-4a06-8ff3-098466021cee.gif)
+
 ![5](https://user-images.githubusercontent.com/97266637/198370536-3108c89c-819b-446b-ba0a-0474af4b6ce1.png)
+
+
 ---
 ![6](https://user-images.githubusercontent.com/97266637/198370560-4c4138d0-86e0-4fa1-bbdd-3674fb9099bc.png)
 
