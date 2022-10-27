@@ -17,7 +17,10 @@
 
 ## Descrição
 
-Projeto focado no Front-end, desenvolvido para evoluir os meus conhecimentos em ReactJS e suas Bibliotecas
+Projeto focado no Front-end, desenvolvido para evoluir os meus conhecimentos em ReactJS e suas Bibliotecas, com esse projeto
+aprendi a utilizar REACTJS e styled components para minhas aplicações web, a prototipação foi realizada com a ferramenta de 
+desing figma
+
 
 - Pagina Responsiva para Desktop e Mobile
 - Carrosel de Imagens animado
